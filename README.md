@@ -1,4 +1,4 @@
 # test-samson
 
 test
-new
+new new
